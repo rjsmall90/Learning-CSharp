@@ -1,0 +1,11 @@
+C:\Users\rjayy\Desktop\Learning-CSharp\Loops_And_Ifs\bin\Debug\netcoreapp2.1\Loops_And_Ifs.deps.json
+C:\Users\rjayy\Desktop\Learning-CSharp\Loops_And_Ifs\bin\Debug\netcoreapp2.1\Loops_And_Ifs.runtimeconfig.json
+C:\Users\rjayy\Desktop\Learning-CSharp\Loops_And_Ifs\bin\Debug\netcoreapp2.1\Loops_And_Ifs.runtimeconfig.dev.json
+C:\Users\rjayy\Desktop\Learning-CSharp\Loops_And_Ifs\bin\Debug\netcoreapp2.1\Loops_And_Ifs.dll
+C:\Users\rjayy\Desktop\Learning-CSharp\Loops_And_Ifs\bin\Debug\netcoreapp2.1\Loops_And_Ifs.pdb
+C:\Users\rjayy\Desktop\Learning-CSharp\Loops_And_Ifs\obj\Debug\netcoreapp2.1\Loops_And_Ifs.csprojAssemblyReference.cache
+C:\Users\rjayy\Desktop\Learning-CSharp\Loops_And_Ifs\obj\Debug\netcoreapp2.1\Loops_And_Ifs.csproj.CoreCompileInputs.cache
+C:\Users\rjayy\Desktop\Learning-CSharp\Loops_And_Ifs\obj\Debug\netcoreapp2.1\Loops_And_Ifs.AssemblyInfoInputs.cache
+C:\Users\rjayy\Desktop\Learning-CSharp\Loops_And_Ifs\obj\Debug\netcoreapp2.1\Loops_And_Ifs.AssemblyInfo.cs
+C:\Users\rjayy\Desktop\Learning-CSharp\Loops_And_Ifs\obj\Debug\netcoreapp2.1\Loops_And_Ifs.dll
+C:\Users\rjayy\Desktop\Learning-CSharp\Loops_And_Ifs\obj\Debug\netcoreapp2.1\Loops_And_Ifs.pdb
